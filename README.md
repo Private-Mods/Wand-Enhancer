@@ -164,4 +164,4 @@ If you find this project useful, you can support its development using any of th
 
 ---
 
-[![Star History Chart](https://api.star-history.com/svg?repos=k1tbyte/Wand-Enhancer&type=Date)](https://www.star-history.com/#k1tbyte/Wand-Enhancer&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Private-Mods%2FWand-Enhancer&type=Date)](https://www.star-history.com/#Private-Mods%2FWand-Enhancer&Date)
